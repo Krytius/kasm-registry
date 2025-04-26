@@ -1,5 +1,5 @@
 {
-  "friendly_name": "Ubuntu Jammy Workspace-1",
+  "friendly_name": "Ubuntu Jammy Workspace 1",
   "image_src": "ubuntu.png",
   "description": "Ubuntu Custom for Krytius",
   "cores": 8,
@@ -16,7 +16,7 @@
   "enabled": true,
   "image_type": "Container",
   "run_config": {
-    "hostname": "ubuntu-jammy-workspace-1",
+    "hostname": "ubuntu-jammy-workspace-one",
     "user": "root"
   },
   "exec_config": {

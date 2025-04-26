@@ -10,6 +10,7 @@ site/public/list.json
 
 # dependencies
 node_modules
+yarn.lock
 
 # logs & pids
 *.log

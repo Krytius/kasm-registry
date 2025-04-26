@@ -1,5 +1,5 @@
 {
-  "friendly_name": "Ubuntu Jammy Workspace-2",
+  "friendly_name": "Ubuntu Jammy Workspace 3",
   "image_src": "ubuntu.png",
   "description": "Ubuntu Custom for Krytius",
   "cores": 8,
@@ -16,7 +16,7 @@
   "enabled": true,
   "image_type": "Container",
   "run_config": {
-    "hostname": "ubuntu-jammy-workspace-2",
+    "hostname": "ubuntu-jammy-workspace-three",
     "user": "root"
   },
   "exec_config": {
@@ -32,9 +32,9 @@
   "compatibility": [
     {
       "version": "1.16.x",
-      "image": "krytius/kasm-ubuntu-jammy:work-2",
+      "image": "krytius/kasm-ubuntu-jammy:work-3",
       "available_tags": [
-        "work-2"
+        "work-3"
       ]
     }
   ]
