@@ -32,7 +32,7 @@
   "compatibility": [
     {
       "version": "1.16.x",
-      "image": "krytius/kasm-ubuntu-jammy:work-3",
+      "image": "krytius/kasm-ubuntu-jammy:develop",
       "available_tags": [
         "work-3"
       ]
